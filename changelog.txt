@@ -1,0 +1,14 @@
+Plugin Name: WPZhanqun Random Theme
+Author: WPZhanqun
+Author URI: https://wpzhanqun.com
+
+Change Log:
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+1.0.0 - 18/10/2021
+----------------------------------------------------------------------
+- Initial Release.
+- WP 5.8.1 Compatibility
+- Changed install location for autoupdate ability
+- Add zh_CN languages 0ranslation
