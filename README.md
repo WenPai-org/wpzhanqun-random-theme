@@ -1,6 +1,6 @@
-# WPZhanqun Random Theme
+# 文派站群随机主题（WPZhanqun Random Theme）
 
-## Usage
+## 使用方式
 
 为新的多站点注册激活随机主题。
 
